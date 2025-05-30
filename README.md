@@ -60,7 +60,7 @@ biblioteca-java/
    - Clone o repositório usando o comando abaixo:
 
      ```bash
-     git clone https://github.com/seu-usuario/biblioteca-java.git
+     git clone https://github.com/alanaagne/BibliotecaJava.git
      ```
 
 **2.  No Eclipse** 
