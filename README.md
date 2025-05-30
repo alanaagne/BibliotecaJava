@@ -65,8 +65,8 @@ biblioteca-java/
 
 **2.  No Eclipse** 
 - vá em **File > Import...**, selecione **Existing Projects into Workspace** 
-- escolha o diretório `biblioteca-java`  
-    -finalize a importação.
+- escolha o diretório `BibliotecaJava`  
+- finalize a importação.
 
 **3.  Para executar o sistema:**
 
